@@ -23,5 +23,5 @@ Vamos elaborar diversos gráficos, por países, regiões e até mesmo continente
 
 <b>Gráficos criados para análise dos dados</b>
 
-<iframe width="100%" height="1621" frameborder="0"
-  src="https://observablehq.com/embed/9403a72f4ad3a1d4?cells=viewof+year%2Cviewof+dashboard%2Cviewof+timelineYear%2Clines"></iframe>
+<iframe width="100%" height="1796" frameborder="0"
+  src="https://observablehq.com/embed/9403a72f4ad3a1d4?cells=viewof+year%2Cviewof+dashboard%2Cviewof+timelineYear%2CtimelineView%2Clines"></iframe>
